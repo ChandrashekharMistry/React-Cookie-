@@ -1,0 +1,5 @@
+npx create-react-app
+
+npm i react-cookie
+
+npm start is used to start server
